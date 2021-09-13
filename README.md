@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love gaming and cricket!**
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimme
+https://github-profile-trophy.vercel.app/?username=Adityak4201&theme=gitdimme
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityak4201&theme=dark)](https://git.io/streak-stats)
 
