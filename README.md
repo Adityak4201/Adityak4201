@@ -17,7 +17,7 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=adityak4201&show_icons=true&theme=dark&locale=en" alt="Adityak4201" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityak4201&theme=dark"</p>
 
 <h4>Github Trophies</h4>
-<p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Adityak4201&theme=gitdimme" alt="Github Trophies"/></p>
+<p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Adityak4201&theme=darkhub" alt="Github Trophies"/></p>
 
 <h4>Top Languages</h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak4201&layout=compact" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak4201&layout=compact&hide=css" /></p>
