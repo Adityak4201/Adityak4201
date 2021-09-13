@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact **I love gaming and cricket!**
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=adityak4201&show_icons=true&theme=dark&locale=en" alt="Adityak4201" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityak4201&theme=dark"</p>
+<h4>Github Stats</h4>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=adityak4201&show_icons=true&theme=dark&locale=en" alt="Adityak4201" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityak4201&theme=dark"</p>
 
-
-<p>&nbsp;![Github Trophies](https://github-profile-trophy.vercel.app/?username=Adityak4201&theme=gitdimme) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak4201&layout=compact)](https://github.com/Adityak4201/github-readme-stats)
-
+<h4>Github Trophies</h4>
+<p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Adityak4201&theme=gitdimme" alt="Github Trophies"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak4201&layout=compact" /></p>
