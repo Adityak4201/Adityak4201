@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🌎 I'm Aditya Khandelwla</h1>
+<h1 align="center">Hello 🌎 I'm Aditya Khandelwal</h1>
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adityak4201&label=Profile%20views&color=blue&style=flat" alt="Adityak4201" /> </p>
